@@ -40,7 +40,9 @@
 ​Data Modeling: Star Schema (Fact & Dimension Tables)
 ​Calculations: DAX (Data Analysis Expressions) for KPIs and aggregated measures
 ​Data Visualizations: Custom Line Charts, Donut Charts, Waterfall/Driver Charts, Matrix Tables, Geographical Maps, and KPI Cards
+
 ​📂 Project Structure
+
 ├── README.md                              <- Project Documentation
 ├── Data/
 │   ├── Fact_Academic_Performance.csv      <- Academic & Grades Data
